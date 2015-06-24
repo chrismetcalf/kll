@@ -1,0 +1,28 @@
+Name = "MD1";
+Layout = "Hacker";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2014";
+KLL = "0.3";
+Date = "2014-09-14";
+Generator = "KIICONF 0.1";
+
+U"5" : CONS"SCANPREVIOUSTRACK";
+U"6" : CONS"SCANNEXTTRACK";
+U"7" : CONS"PAUSEPLAY";
+U"8" : CONS"MUTE";
+U"9" : CONS"VOLUMEDOWN";
+U"0" : CONS"VOLUMEUP";
+U"Y" : U"END";
+U"U" : U"PAGEDOWN";
+U"I" : U"PAGEUP";
+U"O" : U"HOME";
+U"BACKSPACE" : U"DELETE";
+U"H" : U"LEFT";
+U"J" : U"DOWN";
+U"K" : U"UP";
+U"L" : U"RIGHT";
+U"Z" : CONS"SCANPREVIOUSTRACK";
+U"X" : CONS"PLAY";
+U"C" : CONS"PAUSE";
+U"V" : CONS"SCANNEXTTRACK";
+
