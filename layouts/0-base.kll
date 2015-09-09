@@ -6,8 +6,7 @@ KLL = "0.3";
 Date = "2014-09-14";
 Generator = "KIICONF 0.1";
 
-U"FUNCTION1" : layerShift( 1 );
+U"FUNCTION1" : U["Ctrl"] + U["Space"];
 U"FUNCTION2" : layerShift( 1 );
-U"FUNCTION3" : layerShift( 1 );
+U"FUNCTION3" : U["LGui"] + U["LAlt"] + U["\"];
 U"FUNCTION4" : layerShift( 1 );
-
